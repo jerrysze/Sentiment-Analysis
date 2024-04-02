@@ -11,6 +11,7 @@ Task 1.2: Find K-Nearest Neighbor Labels
 Task 1.3: Predict Label for Test Data
 
 
+
 Task 2: Evaluation Metrics
 
 Task 2.1: Confusion Matrix
@@ -24,6 +25,8 @@ Task 2.4: Macro Average Recall
 Task 2.5: Macro- 𝐹1  Score
 
 Task 2.6: Matthews Correlation Coefficient
+
+
 
 Task 3: D-Fold Cross-Validation
 
